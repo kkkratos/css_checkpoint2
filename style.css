@@ -53,5 +53,96 @@ button{
     cursor: pointer;
     transition: .4s
 }
+#img-1{
+    margin-top: 10px;
+    width: 80px;
+    height:55px ;
+    border-radius: 10px;
+}
+#img-2{
+    margin-top: 10px;
+    width: 80px;
+    height:55px ;
+    border-radius: 10px;
+}
+#img-3{
+    margin-top: 10px;
+    width: 80px;
+    height:55px ;
+    border-radius: 10px;
+}
+#img-4{
+    margin-top: 10px;
+    width: 80px;
+    height:55px ;
+    border-radius: 10px;
+}
+#img-5{
+    margin-top: 10px;
+    width: 80px;
+    height:55px ;
+    border-radius: 10px;
+}
+#img-6{
+    margin-top: 10px;
+    width: 80px;
+    height:55px ;
+    border-radius: 10px;
+}
+#img-7{
+    margin-top: 10px;
+    width: 80px;
+    height:55px ;
+    border-radius: 10px;
+}
+#img-8{
+    margin-top: 10px;
+    width: 80px;
+    height:55px ;
+    border-radius: 10px;
+}
+#img-9{
+    margin-top: 10px;
+    width: 80px;
+    height:55px ;
+    border-radius: 10px;
+}
+.card{
+    border-radius: 35px;
+    margin-top: 20px;
+    background-color: black;
+    color: aliceblue;
+    width: 100px;
+    padding: 10px;
+}
+.card-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn{
+    margin-left: 80px;
+}
+#img-10{
+    border-radius: 35px;
+}
+#img-11{
+    border-radius: 35px;
+}
+#img-12{
+    border-radius: 35px;
+}
+#img-13{
+    border-radius: 35px;
+}
+.containere{
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.copyright{
+    margin-right: 30px;
+    margin-top: 15px;
+}
 
 
